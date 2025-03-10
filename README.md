@@ -8,6 +8,9 @@
 ![DRF](https://img.shields.io/badge/-Django_REST-ff1709?style=flat&logo=Django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white)
+![aiogram](https://img.shields.io/badge/-aiogram-000000?style=flat&logo=telegram&logoColor=white)
+![asyncio](https://img.shields.io/badge/-asyncio-3776AB?style=flat&logo=python&logoColor=white)
+![aiohttp](https://img.shields.io/badge/-aiohttp-3776AB?style=flat&logo=python&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
